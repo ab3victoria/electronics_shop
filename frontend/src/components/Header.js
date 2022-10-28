@@ -25,7 +25,7 @@ const Header = () => {
  
   return (
     <header>
-      <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
+      <Navbar bg="light" variant="dark" expand="lg" collapseOnSelect>
         <Container>
           <Navbar.Brand style={{ marginLeft: "1rem" }} as={Link} to="/">
             My Shop
