@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "type": "module",
+  "node": "^16.14.2",
   "scripts": {
     "start": "node backend/server",
     "server": "nodemon backend/server",
@@ -25,8 +26,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.7.0",
     "nodemon": "^2.0.20"
-  },
-  "engines": {
-    "node": "^16.14.2"
   }
+  
 }
