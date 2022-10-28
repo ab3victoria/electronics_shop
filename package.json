@@ -5,6 +5,9 @@
   "main": "server.js",
   "type": "module",
   "node": "^16.14.2",
+  "engines": {
+    "node": "16.14.2"
+  },
   "scripts": {
     "start": "node backend/server",
     "server": "nodemon backend/server",
