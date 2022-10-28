@@ -25,10 +25,10 @@ const Header = () => {
  
   return (
     <header>
-      <Navbar bg="secondary" variant="dark" expand="lg" collapseOnSelect>
+      <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
         <Container>
           <Navbar.Brand style={{ marginLeft: "1rem" }} as={Link} to="/">
-            Electronics Shop
+          Electronics Shop
           </Navbar.Brand>
  
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
