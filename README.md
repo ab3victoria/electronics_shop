@@ -1,10 +1,12 @@
 
 # Electronics Shop
 
- This is an E-commerce website using the MERN stack. 
+ This is an E-commerce website using the MERN stack.
+ 
  The application loads products to a MongoDB database and displays them.
+ 
  Users can click on a specific product to get more informationabout it(reviews,rating and price). 
- Users can add items to their shopping cart and place an order and make a payment (using PayPal as a payment gateway)
+ Users can add items to their shopping cart and place an order and make a payment (using [Paypal](https://developer.paypal.com/sdk/js/configuration/)
 ## Screenshots
 Home Page 
 
