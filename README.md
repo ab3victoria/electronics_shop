@@ -37,7 +37,7 @@ Payment and status of delievery
  * Add, update and delete products
 ## Tech Stack
 
-**Client:** React, bootstrap
+**Client:** React, [bootstrap](https://bootswatch.com/)
 
 **Server:** Node, Express, MongoDB, PayPal Node SDK
 
