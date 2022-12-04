@@ -31,7 +31,7 @@ Payment and status of delievery
 - Make multiple orders and track them
 - Purchase items with Paypal Sandbox. 
  #### Admin Functioanlity:
- * Get the list of all products, users and orders.
+ * Fetching list of all products, users and orders.
  * Update users details
  * Update status of delievery
  * Add, update and delete products
