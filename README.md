@@ -8,6 +8,8 @@
  Users can click on a specific product to get more informationabout it(reviews,rating and price).
  
  Users can add items to their shopping cart and place an order and make a payment (using [Paypal](https://developer.paypal.com/sdk/js/configuration/) as a payment gateway)
+ 
+ Some of the packages that are used: Muler, Morgan
 ## Screenshots
 Home Page 
 
